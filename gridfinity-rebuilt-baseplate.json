@@ -1,0 +1,62 @@
+{
+    "parameterSets": {
+        "5x4-fit": {
+            "$fa": "8",
+            "$fs": "0.25",
+            "chamfer_holes": "true",
+            "crush_ribs": "true",
+            "d_screw": "3.35",
+            "d_screw_head": "5",
+            "distancex": "0",
+            "distancey": "210",
+            "enable_magnet": "false",
+            "fitx": "0",
+            "fity": "-1",
+            "gridx": "5",
+            "gridy": "4",
+            "n_screws": "1",
+            "screw_spacing": "0.5",
+            "style_hole": "0",
+            "style_plate": "0"
+        },
+        "3x4-fit": {
+            "$fa": "8",
+            "$fs": "0.25",
+            "chamfer_holes": "true",
+            "crush_ribs": "true",
+            "d_screw": "3.35",
+            "d_screw_head": "5",
+            "distancex": "0",
+            "distancey": "210",
+            "enable_magnet": "false",
+            "fitx": "0",
+            "fity": "-1",
+            "gridx": "3",
+            "gridy": "4",
+            "n_screws": "1",
+            "screw_spacing": "0.5",
+            "style_hole": "0",
+            "style_plate": "0"
+        },
+        "1x3-65x170mm": {
+            "$fa": "8",
+            "$fs": "0.25",
+            "chamfer_holes": "true",
+            "crush_ribs": "true",
+            "d_screw": "3.35",
+            "d_screw_head": "5",
+            "distancex": "65",
+            "distancey": "170",
+            "enable_magnet": "false",
+            "fitx": "1",
+            "fity": "-1",
+            "gridx": "1",
+            "gridy": "3",
+            "n_screws": "1",
+            "screw_spacing": "0.5",
+            "style_hole": "0",
+            "style_plate": "0"
+        }
+    },
+    "fileFormatVersion": "1"
+}
