@@ -26,7 +26,7 @@ TOLLERANCE = 0.01;
 // Magnet / Screw Hole Constants
 // ****************************************
 LAYER_HEIGHT = 0.2;
-MAGNET_HEIGHT = 2;
+MAGNET_HEIGHT = 1.4;
 
 SCREW_HOLE_RADIUS = 3 / 2;
 MAGNET_HOLE_RADIUS = 6 / 2;
